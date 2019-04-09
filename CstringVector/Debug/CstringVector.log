@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\luspa\onedrive\рабочий стол\c++\cstringvector\cstring_vector.h(51): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\luspa\onedrive\рабочий стол\c++\cstringvector\cstring_vector.h(94): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\luspa\onedrive\рабочий стол\c++\cstringvector\cstring_vector.h(156): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\luspa\onedrive\рабочий стол\c++\cstringvector\cstring_vector.h(185): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\luspa\onedrive\рабочий стол\c++\cstringvector\cstring_vector.h(199): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\luspa\onedrive\рабочий стол\c++\cstringvector\main.cpp(43): warning C4018: <: несоответствие типов со знаком и без знака
+  CstringVector.vcxproj -> C:\Users\luspa\OneDrive\Рабочий стол\c++\CstringVector\Debug\CstringVector.exe

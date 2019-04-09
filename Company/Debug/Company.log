@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\luspa\onedrive\рабочий стол\c++\company\main.cpp(4): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Company.vcxproj -> C:\Users\luspa\OneDrive\Рабочий стол\c++\Company\Debug\Company.exe

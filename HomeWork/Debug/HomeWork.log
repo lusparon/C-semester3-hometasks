@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\luspa\onedrive\рабочий стол\c++\homework\main.cpp(6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\luspa\onedrive\рабочий стол\c++\homework\logic3.h(40): warning C4715: operator<<: значение возвращается не при всех путях выполнения
+  HomeWork.vcxproj -> C:\Users\luspa\OneDrive\Рабочий стол\c++\HomeWork\Debug\HomeWork.exe

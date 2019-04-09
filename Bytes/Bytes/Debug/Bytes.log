@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\marti\desktop\c++\bytes\bytes\swap.h(3): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\marti\desktop\c++\bytes\bytes\main.cpp(5): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\marti\desktop\c++\bytes\bytes\array.h(3): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\marti\desktop\c++\bytes\bytes\main.cpp(9): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Bytes.vcxproj -> C:\Users\marti\Desktop\c++\Bytes\Bytes\Debug\Bytes.exe
