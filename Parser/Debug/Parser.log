@@ -1,0 +1,49 @@
+﻿  main.cpp
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(17): error C2065: Token: необъявленный идентификатор
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(17): error C2059: синтаксическая ошибка: >
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(17): error C2976: std::stack: слишком мало аргументов шаблон
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\stack(19): note:  см. объявление "std::stack"
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(18): error C2065: Token: необъявленный идентификатор
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(18): error C2059: синтаксическая ошибка: >
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(18): error C2976: std::list: слишком мало аргументов шаблон
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\list(739): note:  см. объявление "std::list"
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(41): error C2662: bool std::stack<_Ty,_Container>::empty(void) const: невозможно преобразовать указатель "this" из "std::stack" в "const std::stack<_Ty,_Container> &"
+  c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(41): note: Причина: невозможно преобразовать "std::stack" в "const std::stack<_Ty,_Container>"
+  c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(41): note: Для преобразования требуется второй оператор пользовательского преобразования или конструктор
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(43): error C2663: std::stack<_Ty,_Container>::top: для 2 перегрузок нет допустимого преобразования для указателя "this"
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(44): error C2662: void std::stack<_Ty,_Container>::pop(void): невозможно преобразовать указатель "this" из "std::stack" в "std::stack<_Ty,_Container> &"
+  c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(44): note: Причина: невозможно преобразовать "std::stack" в "std::stack<_Ty,_Container>"
+  c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(44): note: Для преобразования требуется второй оператор пользовательского преобразования или конструктор
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(46): error C2061: синтаксическая ошибка: идентификатор "LeftPar"
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(47): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(49): error C2663: std::list<_Ty,_Alloc>::push_back: для 2 перегрузок нет допустимого преобразования для указателя "this"
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(52): error C2181: недопустимый else без парного if
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(59): error C2663: std::stack<_Ty,_Container>::top: для 2 перегрузок нет допустимого преобразования для указателя "this"
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(60): error C2662: void std::stack<_Ty,_Container>::pop(void): невозможно преобразовать указатель "this" из "std::stack" в "std::stack<_Ty,_Container> &"
+  c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(60): note: Причина: невозможно преобразовать "std::stack" в "std::stack<_Ty,_Container>"
+  c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(60): note: Для преобразования требуется второй оператор пользовательского преобразования или конструктор
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(61): error C2663: std::list<_Ty,_Alloc>::push_back: для 2 перегрузок нет допустимого преобразования для указателя "this"
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(79): error C2663: std::list<_Ty,_Alloc>::push_back: для 2 перегрузок нет допустимого преобразования для указателя "this"
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(98): error C2663: std::stack<_Ty,_Container>::push: для 2 перегрузок нет допустимого преобразования для указателя "this"
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(113): error C2663: std::stack<_Ty,_Container>::push: для 2 перегрузок нет допустимого преобразования для указателя "this"
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(118): error C2663: std::stack<_Ty,_Container>::top: для 2 перегрузок нет допустимого преобразования для указателя "this"
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(119): error C2662: void std::stack<_Ty,_Container>::pop(void): невозможно преобразовать указатель "this" из "std::stack" в "std::stack<_Ty,_Container> &"
+  c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(119): note: Причина: невозможно преобразовать "std::stack" в "std::stack<_Ty,_Container>"
+  c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(119): note: Для преобразования требуется второй оператор пользовательского преобразования или конструктор
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(164): error C2663: std::stack<_Ty,_Container>::push: для 2 перегрузок нет допустимого преобразования для указателя "this"
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(166): error C2662: bool std::stack<_Ty,_Container>::empty(void) const: невозможно преобразовать указатель "this" из "std::stack" в "const std::stack<_Ty,_Container> &"
+  c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(166): note: Причина: невозможно преобразовать "std::stack" в "const std::stack<_Ty,_Container>"
+  c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(166): note: Для преобразования требуется второй оператор пользовательского преобразования или конструктор
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(180): error C2662: bool std::stack<_Ty,_Container>::empty(void) const: невозможно преобразовать указатель "this" из "std::stack" в "const std::stack<_Ty,_Container> &"
+  c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(180): note: Причина: невозможно преобразовать "std::stack" в "const std::stack<_Ty,_Container>"
+  c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(180): note: Для преобразования требуется второй оператор пользовательского преобразования или конструктор
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(182): error C2663: std::stack<_Ty,_Container>::top: для 2 перегрузок нет допустимого преобразования для указателя "this"
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(183): error C3867: "std::stack<_Ty,_Container>::pop": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(185): error C2663: std::list<_Ty,_Alloc>::_Unchecked_begin: для 2 перегрузок нет допустимого преобразования для указателя "this"
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(185): error C2663: std::list<_Ty,_Alloc>::_Unchecked_end: для 2 перегрузок нет допустимого преобразования для указателя "this"
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(185): error C3536: <begin>$L0: не может использоваться до инициализации
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(185): error C3536: <end>$L0: не может использоваться до инициализации
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(185): error C2100: недопустимое косвенное обращение
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(186): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+c:\users\luspa\onedrive\рабочий стол\c++\parser\parser.h(187): error C3867: "std::list<_Ty,_Alloc>::clear": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+c:\users\luspa\onedrive\рабочий стол\c++\parser\main.cpp(5): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"

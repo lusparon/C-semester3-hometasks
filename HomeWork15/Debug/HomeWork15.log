@@ -1,0 +1,11 @@
+﻿  iterator.cpp
+  main.cpp
+c:\users\luspa\onedrive\рабочий стол\c++\homework15\main.cpp(5): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\luspa\onedrive\рабочий стол\c++\homework15\main.cpp(17): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\luspa\onedrive\рабочий стол\c++\homework15\main.cpp(22): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\luspa\onedrive\рабочий стол\c++\homework15\main.cpp(56): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\luspa\onedrive\рабочий стол\c++\homework15\main.cpp(61): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\luspa\onedrive\рабочий стол\c++\homework15\main.cpp(79): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\luspa\onedrive\рабочий стол\c++\homework15\main.cpp(88): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  HomeWork15.vcxproj -> C:\Users\luspa\OneDrive\Рабочий стол\c++\HomeWork15\Debug\HomeWork15.exe

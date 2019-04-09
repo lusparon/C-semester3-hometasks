@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\luspa\onedrive\рабочий стол\c++\сортировка\main.cpp(8): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\luspa\onedrive\рабочий стол\c++\сортировка\main.cpp(32): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\luspa\onedrive\рабочий стол\c++\сортировка\main.cpp(41): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\luspa\onedrive\рабочий стол\c++\сортировка\main.cpp(46): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\luspa\onedrive\рабочий стол\c++\сортировка\main.cpp(53): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\luspa\onedrive\рабочий стол\c++\сортировка\main.cpp(59): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\luspa\onedrive\рабочий стол\c++\сортировка\main.cpp(65): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\luspa\onedrive\рабочий стол\c++\сортировка\main.cpp(73): warning C4018: <: несоответствие типов со знаком и без знака
+  Сортировка.vcxproj -> C:\Users\luspa\OneDrive\Рабочий стол\c++\Сортировка\Debug\Сортировка.exe
